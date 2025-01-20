@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordTester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86c7128b01d5b5f114fdfb458d66a7050578f305")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordTester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordTester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
